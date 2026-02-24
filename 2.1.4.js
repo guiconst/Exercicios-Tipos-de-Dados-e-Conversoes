@@ -1,7 +1,8 @@
-// 10. Converta um boolean em um número e exiba o resultado e seu tipo.
+let valor  = true;
+let valornull = null;
+let valorundefined = undefined;
 
 
-// 11. Converta null para um número e exiba o resultado e seu tipo.
-
-
-// 12. Converta undefined para um número e exiba o resultado e seu tipo.
+console.log(Number(valor));
+console.log(Number(valornull));
+console.log(Number(valorundefined));

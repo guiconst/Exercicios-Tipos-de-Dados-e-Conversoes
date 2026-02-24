@@ -1,1 +1,5 @@
-// 19. Converta o número 1000000000000 em um BigInt e exiba o resultado e seu tipo.
+let bigIntValue = BigInt(1000000000000);
+
+console.log(bigIntValue);
+
+console.log(typeof bigIntValue);

@@ -1,7 +1,11 @@
-// 7. Liste os tipos primitivos do JavaScript em um array e exiba seus valores usando console.log().
+let inte = 10;
+let bigbig = 1n;
+let bulian = true;
+let sting = "teste"
+let stingPath = "C:\\Windows"
 
-
-// 8. Declare uma variável para cada tipo primitivo e exiba seus valores.
-
-
-// 9. Verifique se uma variável contém um valor do tipo Symbol usando typeof.
+console.log(inte);
+console.log(bigbig);
+console.log(bulian);
+console.log(sting);
+console.log(stingPath)

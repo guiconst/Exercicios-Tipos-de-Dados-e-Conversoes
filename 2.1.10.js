@@ -1,1 +1,7 @@
-// 20. Crie uma operação que envolva uma string e um número, mostrando como ocorre a conversão implícita.
+let string = "25";
+let num = 33;
+let result = string + num;
+
+console.log(result);
+
+console.log(typeof result);

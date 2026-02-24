@@ -1,5 +1,11 @@
-// 13. Crie uma expressão que envolva uma conversão implícita entre número e string.
+let num = 33;
+let text = " é a resposta";
+let resultConca = num + text; 
 
+console.log(resultConca);
 
-// 14. Use um operador matemático para converter uma string em um número implicitamente.
+let stringNum = "123";
+let numConvert = stringNum - 0;
 
+console.log(numConvert);
+    
