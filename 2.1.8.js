@@ -1,0 +1,1 @@
+// 18. Converta os valores 0, 1, "", "Hello", null, undefined, {} e [] para booleanos e exiba os resultados.

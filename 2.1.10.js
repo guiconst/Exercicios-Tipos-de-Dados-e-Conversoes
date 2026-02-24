@@ -1,0 +1,1 @@
+// 20. Crie uma operação que envolva uma string e um número, mostrando como ocorre a conversão implícita.

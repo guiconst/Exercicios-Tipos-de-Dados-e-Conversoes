@@ -1,0 +1,1 @@
+// 19. Converta o número 1000000000000 em um BigInt e exiba o resultado e seu tipo.
